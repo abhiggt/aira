@@ -69,20 +69,7 @@ Ensure you have the following installed:
    - Enter additional information like skills, job role, and more.
    - View categorized suggestions.
    - Download the suggestions as a `.txt` file.
-
----
-
-## Project Structure
-
-```plaintext
-.
-├── app.py               # Main Streamlit app script
-├── requirements.txt     # Required Python dependencies
-├── README.md            # Project documentation
-```
-
----
-
+   
 ## Dependencies
 
 Key libraries used in this project:
@@ -95,10 +82,10 @@ Key libraries used in this project:
 ## Screenshots
 
 ### Home Page
-![Home Page](path-to-screenshot/home.png)
+![Home Page](home.png)
 
 ### Suggestions Output
-![Suggestions](path-to-screenshot/suggestions.png)
+![Suggestions](suggestions.png)
 
 ---
 
@@ -114,9 +101,9 @@ Contributions are welcome! To contribute:
 
 ## Authors
 
-- **Abhijeet** (41222116)
-- **Divyanshu** (41222132)
-- **Lakshya** (41222141)
+- **Abhijeet** (initator)
+- **Divyanshu** (Co-coder)
+- **Lakshya** (UI Design)
 
 ---
 
