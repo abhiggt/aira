@@ -20,15 +20,6 @@ AIRA (AI Resume Assistant) is a Streamlit-based web application designed to anal
   - Target Job Role
   - Years of Experience
   - Skills, Certifications, Projects, and Career Goals
-
-### 🖼️ Enhanced UI
-- Beautiful **blurred glass design** for suggestions.
-- Hover effects for improved readability.
-- Light and dark themes for a personalized experience.
-
-### 📥 Export Options
-- Download suggestions as a `.txt` file for offline reference.
-
 ---
 
 ## Installation
