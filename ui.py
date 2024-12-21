@@ -6,7 +6,7 @@ import PyPDF2
 st.set_page_config(page_title="AIRA - Resume Enhancer", page_icon="📄")
 
 # Configure Gemini API
-genai.configure(api_key='AIzaSyBlG4xWCX4isrY46DWwHTVTmQHGXdQ2O8M')  # Replace with your API key
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
 def extract_text_from_pdf(uploaded_file):
     """Extract text from uploaded PDF file."""
@@ -222,9 +222,10 @@ def main():
     # Footer
     st.markdown("---")
     st.markdown(""""""
-        "Created by **Abhijeet (41222116)**; **Divyanshu (41222132)**; **Lakshya (41222141)**",
+        "Created by **Abhijeet **; **Divyanshu **; **Lakshya**",
         unsafe_allow_html=True
     )
 
 if __name__ == "__main__":
     main()
+    
