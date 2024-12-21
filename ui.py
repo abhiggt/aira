@@ -222,7 +222,7 @@ def main():
     # Footer
     st.markdown("---")
     st.markdown(""""""
-        "Created by **Abhijeet **; **Divyanshu **; **Lakshya**",
+        "Created by Abhijeet, Divyanshu & Lakshya",
         unsafe_allow_html=True
     )
 
